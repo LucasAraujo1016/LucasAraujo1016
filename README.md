@@ -1,8 +1,7 @@
 ## Olá! Prazer, eu sou o Lucas Araujo 👋
 
 - 🔭 Atualmente sou estudante do curso **Desenvolvimento de Software Multiplataforma** na **FATEC**
-- 🌱 Estudando **Java, TypeScript, React e Spring Boot**  
-- 😄 Pronomes: **ele/dele**  
+- 🌱 Estudando **Flutter**   
 - 🎮 Curiosidade: grande fã de jogos e animes, colecionador de **platinas na Steam** e de **mangás na estante**, sempre interessado em me aprofundar em suas histórias.  
 
 ---
